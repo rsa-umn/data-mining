@@ -1,5 +1,8 @@
 # CSCI5523 - Group 16 
 
+## project-notebook.ipynb
+The Jupyter Notebook containing our project code and observations.
+
 ## README.md
 This file
 
